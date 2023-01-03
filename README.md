@@ -1,5 +1,6 @@
 <html>
   <head>
+    <title>My Website</title>
   </head>
   <body>
     <h1>Welcome to my website!</h1>
@@ -16,3 +17,4 @@
     <p>Thank you for visiting my website. I hope you enjoyed learning a little bit about me!</p>
   </body>
 </html>
+
